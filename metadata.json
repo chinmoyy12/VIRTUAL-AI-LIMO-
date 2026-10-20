@@ -1,0 +1,6 @@
+{
+  "name": "OMEGA OS - Living Operating Layer",
+  "description": "An autonomous AI operating layer and personal digital companion featuring computer control, creative studio, automated task chains, and real-time telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
